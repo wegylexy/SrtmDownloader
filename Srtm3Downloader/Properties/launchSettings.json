@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Srtm3Downloader": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\SRTM3"
+    }
+  }
+}
